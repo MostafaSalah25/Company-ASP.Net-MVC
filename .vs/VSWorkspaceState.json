@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Company.DAL",
+    "\\Company.DAL\\Contexts",
+    "\\Company.Presentation Layer",
+    "\\Company.Presentation Layer\\Controllers"
+  ],
+  "SelectedNode": "\\Company.Presentation Layer\\Controllers\\EmployeeController.cs",
+  "PreviewInSolutionExplorer": false
+}
